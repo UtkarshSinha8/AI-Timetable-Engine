@@ -1,0 +1,21 @@
+[
+    {
+        "subject_id": 1,
+        "name": "Physics",
+        "required_weekly_minutes": 300
+    },
+
+    {
+        "subject_id": 2,
+        "name": "Math",
+        "required_weekly_minutes": 300
+    },
+
+    {
+        "subject_id": 3,
+        "name": "Chemistry",
+        "required_weekly_minutes": 300
+    }
+
+   
+]

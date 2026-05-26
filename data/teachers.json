@@ -1,0 +1,23 @@
+[
+    {
+        "teacher_id": 1,
+        "name": "Rahul",
+        "max_daily_load": 360,
+        "max_weekly_load": 1800
+    },
+
+    {
+        "teacher_id": 2,
+        "name": "Aman",
+        "max_daily_load": 360,
+        "max_weekly_load": 1800
+    }
+    ,
+
+    {
+        "teacher_id": 3,
+        "name": "Sonia",
+        "max_daily_load": 360,
+        "max_weekly_load": 1800
+    }   
+]
